@@ -1,0 +1,4 @@
+Synth Notes:
+
+Major Chord : Root Note + 4th Note from root + 7th note root
+Minor Chord : Root Note + 3rd Note from root + 7th note root  
